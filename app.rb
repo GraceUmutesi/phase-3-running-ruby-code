@@ -1,5 +1,5 @@
 #puts is equivalent to console.log in javascript, print in python, println in java or printif in c 
-puts "Hello world!"
+puts "Hello World!"
 print "Pass this test, please."
 
 #puts [1, 2, 3]
